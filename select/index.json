@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "What is my LIFE?",
+  "base_artist": "いきづらい部！",
+  "createdAt": "2025-12-14T06:07:09.734853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What is my LIFE?",
+      "artist": "いきづらい部!",
+      "has_synced": true,
+      "path": "select/01_What_is_my_LIFE_いきづらい部!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What is my LIFE?",
+      "artist": "IKIZULIVE!",
+      "has_synced": false,
+      "path": "select/02_What_is_my_LIFE_IKIZULIVE!.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What Is My Life",
+      "artist": "The Gregory Brothers",
+      "has_synced": true,
+      "path": "select/03_What_Is_My_Life_The_Gregory_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What Is My Life Worth",
+      "artist": "Roe Kapara",
+      "has_synced": true,
+      "path": "select/04_What_Is_My_Life_Worth_Roe_Kapara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What Is My Life",
+      "artist": "Jacksepticeye & The Gregory Brothers",
+      "has_synced": true,
+      "path": "select/05_What_Is_My_Life_Jacksepticeye_&_The_Gregory_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What Is My Life",
+      "artist": "The Gregory Brothers, Jacksepticeye",
+      "has_synced": true,
+      "path": "select/06_What_Is_My_Life_The_Gregory_Brothers,_Jacksepticeye.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What Is My Life",
+      "artist": "Jacksepticeye",
+      "has_synced": true,
+      "path": "select/07_What_Is_My_Life_Jacksepticeye.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What Is My Life",
+      "artist": "The Gregory Brothers feat. Jacksepticeye",
+      "has_synced": true,
+      "path": "select/08_What_Is_My_Life_The_Gregory_Brothers_feat._Jacksepticeye.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What is my LIFE?",
+      "artist": "いきづらい部!",
+      "has_synced": false,
+      "path": "select/pl_01_What_is_my_LIFE_いきづらい部!.txt"
+    }
+  ]
+}
